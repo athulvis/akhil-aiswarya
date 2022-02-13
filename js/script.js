@@ -38,6 +38,7 @@ function animateOpen(){
   });
   setTimeout(function(){
        document.getElementById("cover").style.display="none";
+	   document.getElementById("opovrlay").style.display="none";
   
   },1000);
 	document.getElementById("opovrlay").style.display="none";	
