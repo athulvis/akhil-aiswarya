@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f82081c8-6009-476f-9d84-5e1187c74665/deploy-status)](https://app.netlify.com/sites/akhil-aiswarya/deploys)
 
 <p align="center"><a href="https://akhil-aiswarya.netlify.app"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
 <h1 align="center"><a href="https://akhil-aiswarya.netlify.app">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: Mar 25, 2022 <br> <a href="https://akhil-aiswarya.netlify.app/">https://akhil-aiswarya.netlify.app/</a></h1>
